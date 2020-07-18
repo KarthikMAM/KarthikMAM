@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Karthik M A M </h1>
 
-<p align="center">Polyglot full-stack software engineer, who loves building complex and large scale systems.</p>
+<p align="center">A polyglot full-stack software engineer, who loves building complex and large scale systems.</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/aws.svg" alt="aws" width="40" />
