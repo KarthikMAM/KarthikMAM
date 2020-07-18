@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikmam" alt="karthikmam" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikmam&show_icons=true" alt="karthikmam" /> </p>
-
 <section>
   <h2> Work Experience </h2>
   <section>
