@@ -33,10 +33,11 @@
         <p>
           <b>Software Development Engineer II</b>
           &nbsp;
-          (Jun 2020 - Present)< /h4>
-            <ul>
-              <li> Building Alexa!! </li>
-            </ul>
+          (Jun 2020 - Present)
+        <ul>
+          <li> Building Alexa!! </li>
+        </ul>
+        </p>
       </li>
   </section>
 
