@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Karthik M A M
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikmam&show_icons=true" alt="karthikmam" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikmam" alt="karthikmam" /> </p>
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikmam&show_icons=true" alt="karthikmam" /> </p>
 </h1>
