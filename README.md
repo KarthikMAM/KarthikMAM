@@ -3,23 +3,23 @@
 <p align="center">Polyglot full-stack software engineer, who loves building complex and large scale systems.</p>
 
 <p align="center">
-  <img src="/icons/skills/aws.svg" alt="aws" width="40" />
-  <img src="/icons/skills/ruby.svg" alt="ruby" width="40" />
-  <img src="/icons/skills/rails.svg" alt="rails" width="40" />
-  <img src="/icons/skills/golang.svg" alt="golang" width="40" height="40" />
-  <img src="/icons/skills/java.svg" alt="java" width="40" />
-  <img src="/icons/skills/react.svg" alt="react" width="40" />
-  <img src="/icons/skills/typescript.svg" alt="typescript" width="40" />
-  <img src="/icons/skills/js.svg" alt="js" width="40" />
-  <img src="/icons/skills/nodejs.svg" alt="nodejs" width="40" />
-  <img src="/icons/skills/docker.svg" alt="docker" width="40" />
-  <img src="/icons/skills/redis.svg" alt="redis" width="40" />
-  <img src="/icons/skills/postgres.svg" alt="postgres" width="40" />
-  <img src="/icons/skills/heroku.svg" alt="heroku" width="40" />
-  <img src="/icons/skills/mysql.svg" alt="mysql" width="40" />
-  <img src="/icons/skills/elastic.svg" alt="elastic" width="40" height="40" />
-  <img src="/icons/skills/python.svg" alt="python" width="40" />
-  <img src="/icons/skills/csharp.svg" alt="csharp" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/aws.svg" alt="aws" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/ruby.svg" alt="ruby" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/rails.svg" alt="rails" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/golang.svg" alt="golang" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/java.svg" alt="java" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/react.svg" alt="react" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/typescript.svg" alt="typescript" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/js.svg" alt="js" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/nodejs.svg" alt="nodejs" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/docker.svg" alt="docker" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/redis.svg" alt="redis" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/postgres.svg" alt="postgres" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/heroku.svg" alt="heroku" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/mysql.svg" alt="mysql" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/elastic.svg" alt="elastic" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/python.svg" alt="python" width="40" />
+  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/csharp.svg" alt="csharp" width="40" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikmam" alt="karthikmam" /> </p>
