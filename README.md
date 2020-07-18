@@ -30,10 +30,13 @@
     <h3> <a href="https://amazon.com">Amazon.com</a> </h3>
     <ul>
       <li>
-        <p><b>Software Development Engineer II</b> (Jun 2020 - Present)</h4>
-        <ul>
-          <li> Building Alexa!! </li>
-        </ul>
+        <p>
+          <b>Software Development Engineer II</b>
+          &nbsp;
+          (Jun 2020 - Present)< /h4>
+            <ul>
+              <li> Building Alexa!! </li>
+            </ul>
       </li>
   </section>
 
@@ -41,7 +44,11 @@
     <h3> <a href="https://pro.com">Pro.com</a> </h3>
     <ul>
       <li>
-        <p><b>Full-Stack Software Engineer</b> (Mar 2019 - Jun 2020)</p>
+        <p>
+          <b>Full-Stack Software Engineer</b>
+          &nbsp;
+          (Mar 2019 - Jun 2020)
+        </p>
         <ul>
           <li>Built payments system using ACH, handling millions of dollars in payment every month. Also, built the payment terms and invoice management systems.</li>
           <li>Built a suite of tools and services that manage the day-to-day activities of field agents in an intelligent way. This particular tool allowed project management activities to be templatized and allowed automatic creation and assignments of such actions to potential owners with manual overrides.</li>
@@ -55,7 +62,11 @@
     <h3> <a href="https://www.qubecinema.com/">Qube Cinema Technologies</a> </h3>
     <ul>
       <li>
-        <p><b>Associate Software Development Engineer</b> (May 2017 - Feb 2019)</p>
+        <p>
+          <b>Associate Software Development Engineer</b>
+          &nbsp;
+          (May 2017 - Feb 2019)
+        </p>
         <ul>
           <li>Built a suite of tools and services that manage metadata about movies, theatres, actors, production houses in the film industry.</li>
           <li>Re-architected a platform called Moviebuff, to progressively move away from a monolith architecture to a mix of micro-service and server-less architecture. Built high throughput and scalable APIs as a part of this migration that are now consumed by top companies like Spotify, Justickets, SPI Cinemas etc.</li>
@@ -69,7 +80,11 @@
         </ul>
       </li>
       <li>
-        <p><b>Software Engineering Intern</b> (Jan 2017 – Apr 2017)</p>
+        <p>
+          <b>Software Engineering Intern</b>
+          &nbsp;
+          (Jan 2017 – Apr 2017)
+        </p>
         <ul>
           <li>Worked closely with the senior architects understanding the architecture of the company and coming up with solutions and proposals to optimise them.</li>
           <li>Worked on learning different technologies like Ruby on Rails, GoLang, AWS, React, Angular, Postgres, Redis</li>
@@ -93,7 +108,11 @@
   <h2> Awards & Recognition </h2>
   <ul>
     <li>
-      <p><b>Best employee award at <a href="https://pro.com">Pro.com</a></b> (Jan 2020)</p>
+      <p>
+        <b>Best employee award at <a href="https://pro.com">Pro.com</a></b>
+        &nbsp;
+        (Jan 2020)
+      </p>
       <i>
         This was awarded to me for displaying excellent project ownership and technical skills.
         I took complete ownership of a project that aimed at automating the entire operations workflow at the company.
@@ -123,11 +142,19 @@
       </p>
       <i>I built a download manager for windows while I was still doing my undergrad studies and it got featured in this popular blog as one of the best open-source download manager for windows.</i>
     <li>
-      <p><b>Best Project Award, ExpertsHub</b> (Jan 2016)</p>
+      <p>
+        <b>Best Project Award, ExpertsHub</b>
+        &nbsp;
+        (Jan 2016)
+      </p>
       <i>Created a prototype for an automated parking reservation system.</i>
     </li>
     <li>
-      <p><b>Winner Paper Presentation, National Conference on IoT and Data Analytics, SSN</b> (Mar 2016)</p>
+      <p>
+        <b>Winner Paper Presentation, National Conference on IoT and Data Analytics, SSN</b>
+        &nbsp;
+        (Mar 2016)
+      </p>
       <i>Presented my findings on IoT based solutions for efficient parking reservation system. Won 5000 INR as a part of this by placing first.</i>
     </li>
   </ul>
@@ -138,9 +165,12 @@
 
 <section>
   <p align="center">
-    <a href="https://twitter.com/karthik_m_a_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_m_a_m" height="20" width="20" /></a>
     <a href="https://linkedin.com/in/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthikmam" height="20" width="20" /></a>
+    <a href="https://www.hackerrank.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="karthikmam" height="20" width="20" /></a>
+    <a href="https://www.hackerearth.com/@KarthikMAM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="karthikmam" height="20" width="20" /></a>
+    <a href="https://twitter.com/karthik_m_a_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_m_a_m" height="20" width="20" /></a>
     <a href="https://fb.com/karthik.m.a.m.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karthik.m.a.m.96" height="20" width="20" /></a>
+    <a href="https://quora.com/profile/Karthik-M-A-M-1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Karthik-M-A-M-1" height="20" width="20" /></a>
     <a href="https://instagram.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karthikmam" height="20" width="20" /></a>
   </p>
 </section>
