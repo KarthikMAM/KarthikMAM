@@ -166,6 +166,7 @@
 
 <section>
   <p align="center">
+    <a href="https://www.github.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="karthikmam" height="20" width="20" /></a>
     <a href="https://linkedin.com/in/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthikmam" height="20" width="20" /></a>
     <a href="https://www.hackerrank.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="karthikmam" height="20" width="20" /></a>
     <a href="https://www.hackerearth.com/@KarthikMAM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="karthikmam" height="20" width="20" /></a>
