@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi 👋, I'm Karthik M A M
-</h1>
+<h1 align="center"> Hi 👋, I'm Karthik M A M </h1>
+
+<p align="center">Polyglot full-stack software engineer, who loves complex building large scale systems.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikmam" alt="karthikmam" /> </p>
 
