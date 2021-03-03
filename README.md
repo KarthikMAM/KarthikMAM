@@ -35,6 +35,7 @@
           &nbsp;
           (Jun 2020 - Present)
         <ul>
+          <li> Building Alexa! </li>
           <li> When you say <b><l>"Alexa, call XYZ"</b></l> or <b><l>"Alexa, message XYZ"</b></l> just think of me!!! </li>
         </ul>
         </p>
