@@ -2,28 +2,6 @@
 
 <p align="center">A polyglot full-stack software engineer, who loves building complex and large scale systems.</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/aws.svg" alt="aws" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/ruby.svg" alt="ruby" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/rails.svg" alt="rails" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/golang.svg" alt="golang" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/java.svg" alt="java" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/react.svg" alt="react" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/typescript.svg" alt="typescript" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/js.svg" alt="js" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/nodejs.svg" alt="nodejs" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/docker.svg" alt="docker" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/redis.svg" alt="redis" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/postgres.svg" alt="postgres" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/heroku.svg" alt="heroku" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/mysql.svg" alt="mysql" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/elastic.svg" alt="elastic" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/python.svg" alt="python" width="40" />
-  <img src="https://raw.githubusercontent.com/KarthikMAM/KarthikMAM/master/icons/skills/csharp.svg" alt="csharp" width="40" />
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=karthikmam" alt="karthikmam" /> </p>
-
 <section>
   <h2> Work Experience </h2>
   <section>
@@ -31,12 +9,15 @@
     <ul>
       <li>
         <p>
-          <b>Software Development Engineer II</b>
+          <b>Software Development Engineer II - Alexa Social</b>
           &nbsp;
           (Jun 2020 - Present)
         <ul>
-          <li> Building Alexa! </li>
-          <li> When you say <b><l>"Alexa, call XYZ"</b></l> or <b><l>"Alexa, message XYZ"</b></l> just think of me!!! </li>
+          <li> Lead engineer for "Smart Contacts Suggestion", a feature that teaches Alexa what contacts are important to a customer and will recommend such contacts to customers say during calling/messaging etc. Alexa will initially build a suggestion model for the customer based on the raw contact information like last name, relationship etc. As the customer starts interacting with their contacts, new signals like calling/messsaging will build upon the existing model and refine the predictions on what contact is important to the customer. This is one of the key projects within Alexa Social in 2021 and I was chosen to lead, design and implement this system. Potential future use cases include recommending products, music etc. based on the people the customer has a strong connection with.</li>
+          <li> As a part of the above feature, I also implemented an intelligent backfill system. It intelligently listens to event streams within Alexa Social and predicts when the customer will require a certain feature for the first time. Based on that and heuristics model for that particular feature, it will backfill/create data migrations just before the customer actually requests that data. This saved scanning billions of contacts from inactive customers, saving approx. 10-20K USD in upfront costs when launching a new feature.</li>
+          <li> Led the implementation and adoption of a new UI framework within communications and social org of Alexa in the Alexa mobile app. This was a part of a wider initiative within the Alexa app, to improve consistency, reusability and accessibility of the UX across the Alexa app. As a part of this, I also enabled theming support on the screens owned by our org.</li>
+          <li> Took up ownership of a core service within my team and improved it for reliability and scalability during Q4 peak christmas traffic of 2020. Peak traffic for each API of this service would be in the order or 25K calls per second during this period. Some of the enhancements and optimisations include metrics based intelligent downstream traffic predictor, service level caching, dynamic throttling and circuit breaking. </li>
+          <li> Implemented GDPR V2 solutions for Alexa Social Contacts. It addressed multiple limitations associated with previous systems like race conditions in data deletion flows amongst dependencies, profile based data deletion etc. </li>
         </ul>
         </p>
       </li>
@@ -54,8 +35,8 @@
         <ul>
           <li>Built payments system using ACH, handling millions of dollars in payment every month. Also, built the payment terms and invoice management systems.</li>
           <li>Built a suite of tools and services that manage the day-to-day activities of field agents in an intelligent way. This particular tool allowed project management activities to be templatized and allowed automatic creation and assignments of such actions to potential owners with manual overrides.</li>
-          <li>Built a suite of tools and services that manage sub-contractor onboarding and management.</li>
-          <li>Built bidding systems that enabled project managers to send out bid invites to subcontractors and enabled the subcontractors to price and accept/reject such bids.</li>
+          <li>Built a suite of tools that manage sub-contractor onboarding and management.</li>
+          <li>Built parts of the bidding systems that enabled project managers to send out bid invites to subcontractors and enabled the subcontractors to price and accept/reject such bids.</li>
         </ul>
       </li>
   </section>
@@ -162,21 +143,17 @@
   </ul>
 </section>
 
-<br>
-<br>
-
 <section>
-  <p align="center">
-    <a href="https://www.github.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="karthikmam" height="20" width="20" /></a>
-    <a href="https://linkedin.com/in/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karthikmam" height="20" width="20" /></a>
-    <a href="https://www.hackerrank.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="karthikmam" height="20" width="20" /></a>
-    <a href="https://www.hackerearth.com/@KarthikMAM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="karthikmam" height="20" width="20" /></a>
-    <a href="https://twitter.com/karthik_m_a_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="karthik_m_a_m" height="20" width="20" /></a>
-    <a href="https://fb.com/karthik.m.a.m.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karthik.m.a.m.96" height="20" width="20" /></a>
-    <a href="https://quora.com/profile/Karthik-M-A-M-1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Karthik-M-A-M-1" height="20" width="20" /></a>
-    <a href="https://instagram.com/karthikmam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karthikmam" height="20" width="20" /></a>
-  </p>
+  <h2> Skills & Technologies </h2>
+  <ul>
+    <li> Full stack development (FrontEnd, BackEnd, Mobile, Infra)
+    <li> Platform and language agnostic development (Java, Go, Ruby, TypeScript, Python, React, ReactNative, C#, AWS, Terraform, SQL, NoSQL etc. to name a few)
+    <li> Design and implementation of large scale distributed systems
+  </ul>
 </section>
+
+<br>
+<br>
 
 <br>
 <br>
