@@ -26,6 +26,7 @@
 
 <section>
   <h2> Work Experience </h2>
+  <p> As a full-stack engineer, I have designed and built several complex and large-scale systems e2e across several domains. From frontend to backend to complex ML recommendation systems, I have delivered high-performance systems across the board.  </p>
   <section>
     <h3> <a href="https://amazon.com">Amazon.com</a> </h3>
     <ul>
@@ -35,8 +36,13 @@
           &nbsp;
           (Jun 2020 - Present)
         <ul>
-          <li> Building Alexa! </li>
-          <li> When you say <b><l>"Alexa, call XYZ"</b></l> or <b><l>"Alexa, message XYZ"</b></l> just think of me!!! </li>
+          <li> Built a contact recommendation system. The system processes upwards of 35000 contacts / second on a day-to-day basis, generating recommendations which drove nearly 60% of all the contact related clicks.  </li>
+          <li> Built an no / low code platform, which uses a JSON description of the UI to generate a fully functional UI. This helped several teams create new mobile workflows without writing any line of code. </li>
+          <li> Built an asset management system that handled billions of requests every month. </li>
+          <li> Built a system to manage the Phone Calling List for which Alexa provides free calling capabilities </li>
+          <li> Built phone number verification, favorite contact management systems etc. each handling millions of requests on a day-to-day basis  </li>
+          <li> Built privacy orchestration systems for the contact management systems of Alexa </li>
+          <li> Build and manage a complex UI component library in react-native which is used by 100s of mobile app teams within Alexa. </li>
         </ul>
         </p>
       </li>
